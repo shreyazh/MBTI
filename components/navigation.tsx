@@ -71,7 +71,7 @@ export function Navigation() {
           {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
         </button>
 
-        <Link href="#contact" className="hidden md:block">
+        <Link href="https://en.wikipedia.org/wiki/Autism" className="hidden md:block">
           <Button className="bg-black text-white hover:bg-black/90 rounded-sm px-5 h-12 min-w-[48px] flex-shrink-0">
             Learn
           </Button>
