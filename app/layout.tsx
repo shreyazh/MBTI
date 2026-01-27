@@ -21,7 +21,7 @@ const onest = Onest({
 export const metadata: Metadata = {
   title: "Myers-Briggs Personality Test | Discover Your Type",
   description: "Take the comprehensive Myers-Briggs personality assessment to discover your 16-type personality. Learn about all 16 personality types and understand yourself better.",
-  generator: "v0.app",
+  generator: "Shreyash Srivastva",
 }
 
 export default function RootLayout({
