@@ -22,7 +22,11 @@ export const metadata: Metadata = {
   title: "Myers-Briggs Personality Test | Discover Your Type",
   description: "Take the comprehensive Myers-Briggs personality assessment to discover your 16-type personality. Learn about all 16 personality types and understand yourself better.",
   generator: "Shreyash Srivastva",
-}
+  icons: {
+    icon: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    shortcut: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    apple: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+  },}
 
 export default function RootLayout({
   children,
