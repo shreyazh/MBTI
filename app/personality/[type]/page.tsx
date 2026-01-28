@@ -61,7 +61,7 @@ export default function PersonalityPage({ params }: { params: { type: string } }
           <div className="mb-12 border-b-4 border-black pb-8">
             <div className="flex items-center gap-6 mb-6">
               <div className="bg-black text-white p-8 rounded-lg border-4 border-black">
-                <div className="text-5xl font-bold text-center">{personality.code}</div>
+                <div className="text-4xl font-bold text-center">{personality.code}</div>
               </div>
               <div>
                 <h1 className="text-4xl font-bold mb-2">{personality.nickname}</h1>
@@ -73,7 +73,7 @@ export default function PersonalityPage({ params }: { params: { type: string } }
           {/* Description */}
           <div className="mb-12">
             <h2 className="text-3xl font-bold mb-4">Overview</h2>
-            <p className="text-lg text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed text-justify">
               {personality.description}
             </p>
           </div>
