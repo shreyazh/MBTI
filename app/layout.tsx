@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   description: "Take the comprehensive Myers-Briggs personality assessment to discover your 16-type personality. Learn about all 16 personality types and understand yourself better.",
   generator: "Shreyash Srivastva",
   icons: {
-    icon: "https://static.diffen.com/uploadz/a/af/tesla--1.jpg",
-    shortcut: "hhttps://static.diffen.com/uploadz/a/af/tesla--1.jpg",
-    apple: "https://static.diffen.com/uploadz/a/af/tesla--1.jpg",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    shortcut: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    apple: "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
   },}
 
 export default function RootLayout({
