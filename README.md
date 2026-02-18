@@ -1,4 +1,5 @@
 # MBTI
+
 ## About Myers-Briggs | History and Research
 
 This page provides an overview of the Myers-Briggs Type Indicator (MBTI), including its history, theoretical foundations, four core dimensions, research background, and the 16 personality types. It is designed as part of a modern web application using reusable components.
@@ -7,7 +8,7 @@ This page provides an overview of the Myers-Briggs Type Indicator (MBTI), includ
 
 ## Overview
 
-The Myers-Briggs Type Indicator (MBTI) is a personality framework based on psychological type theory. This page explains:
+The Myers-Briggs Type Indicator (MBTI) is a personality framework based on the theory of psychological types. This page explains:
 
 - The historical origins of the MBTI  
 - The four core personality dimensions  
@@ -19,9 +20,9 @@ The Myers-Briggs Type Indicator (MBTI) is a personality framework based on psych
 
 ## History & Origins
 
-The Myers-Briggs Type Indicator (MBTI) is based on the theory of psychological types developed by Swiss psychiatrist :contentReference[oaicite:0]{index=0} in 1921. Jung believed that apparent random variation in human behavior is not actually random, but flows from differences in how people prefer to use their perception and judgment.
+The Myers-Briggs Type Indicator (MBTI) is based on the theory of psychological types developed by Swiss psychiatrist Carl Jung in 1921. Jung believed that apparent random variation in human behavior is not actually random, but flows from differences in how people prefer to use their perception and judgment.
 
-In the 1940s, :contentReference[oaicite:1]{index=1} and her daughter :contentReference[oaicite:2]{index=2} built upon Jung's work to create a practical personality framework. They developed the MBTI to make Jung's theory accessible and useful for everyday life, career development, and personal understanding.
+In the 1940s, Katherine Cook Briggs and her daughter Isabel Briggs Myers built upon Jung's work to create a practical personality framework. They developed the MBTI to make Jung's theory accessible and useful for everyday life, career development, and personal understanding.
 
 Katherine became interested in personality type psychology after reading Jung's work. Isabel, a novelist and researcher, recognized the value of understanding personality types for educational purposes. Together, they conducted extensive research and created the framework that became the Myers-Briggs Type Indicator.
 
@@ -44,10 +45,10 @@ This distinction is not about shyness or sociability, but about where you prefer
 
 This dimension addresses how you gather information and perceive the world.
 
-- Sensors (S) focus on concrete, factual information gathered through the senses—what is real and present.  
-- Intuitive types (N) focus on patterns, possibilities, and the bigger picture—what could be.  
+- Sensors (S) focus on concrete, factual information gathered through the senses — what is real and present.  
+- Intuitive types (N) focus on patterns, possibilities, and the bigger picture — what could be.  
 
-Sensors are often detail-oriented and practical, while Intuitive types are imaginative and future-focused.
+Sensors are often detail-oriented and practical, while intuitive types are imaginative and future-focused.
 
 ### 3. Thinking vs. Feeling (T/F)
 
@@ -92,7 +93,7 @@ It is important to note that the MBTI measures preferences, not intelligence, ab
 
 The combination of four preferences results in 16 unique personality types. Each type has distinct characteristics, values, strengths, and potential growth areas.
 
-Your type represents your natural preferences and may shift somewhat over time or across contexts. The framework is designed to promote self-awareness and appreciation of personality differences, rather than to label or limit individuals.
+Your type represents your natural preferences and may shift somewhat over time or across contexts. The framework is designed to promote self-awareness and appreciation of personality differences rather than to label or limit individuals.
 
 Understanding these differences can support self-acceptance, stronger interpersonal relationships, and more effective collaboration.
 
@@ -126,5 +127,3 @@ export const metadata = {
 This Myers-Briggs personality test website was created by @shreyazh.
 
 GitHub: [shreyazh](https://github.com/shreyazh)
-
-
